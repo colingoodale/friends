@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+This is a small app that reciprocates data from a backend. The goal is to show the mutability of React and the ability to use components recursively. We're able to show known information by packaging it similarly and using the same components to render different fields. This allows React to be a wonderful tool for templating your app and keeping a cohesive code base that your team can use to expedite design.
+
 ## Available Scripts
 
 In the project directory, you can run:
